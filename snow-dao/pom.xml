@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>permission-server-dao</artifactId>
+    <artifactId>snow-dao</artifactId>
 
 
 </project>

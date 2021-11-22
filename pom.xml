@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <modules>
-        <module>permission-server-dao</module>
-        <module>permission-server-service</module>
-        <module>permission-web</module>
-        <module>permission-server-dao-neo4j</module>
+        <module>snow-dao</module>
+        <module>snow-service</module>
+        <module>snow-web</module>
+        <module>snow-dao-mysql</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
