@@ -15,11 +15,11 @@
         <relativePath/>
     </parent>
     <groupId>cn.force-coder</groupId>
-    <artifactId>permission-server</artifactId>
+    <artifactId>snow-server</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
-    <name>permission-server</name>
-    <description>permission system server</description>
+    <name>snow-server</name>
+    <description>snow server</description>
 
     <build>
         <resources>

@@ -1,4 +1,4 @@
-package cn.force.coder.permission;
+package cn.force.coder.snow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
